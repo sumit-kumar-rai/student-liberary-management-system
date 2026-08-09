@@ -1,4 +1,4 @@
-// Book extends LibraryItem -> inheritance
+
 public class Book extends LibraryItem {
     private String author;
     private String isbn;
